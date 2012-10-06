@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<LookupValueCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Collection>
+    <anyType xsi:type="LookupValue">
+      <Description>AMR-51D (Armored car)</Description>
+      <IntValue>384000</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TAX-52 (Tank)</Description>
+      <IntValue>384032</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>SAM-42 (Surface to air missile)</Description>
+      <IntValue>384064</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>ST-57U (Boat)</Description>
+      <IntValue>384096</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>SUPPLY (Supply truck)</Description>
+      <IntValue>384128</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>GRM-34A (Cannon)</Description>
+      <IntValue>384160</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>INFANTRY (Infantry)</Description>
+      <IntValue>384256</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>FWA (Motorcycle)</Description>
+      <IntValue>384288</IntValue>
+    </anyType>
+  </Collection>
+</LookupValueCollection>

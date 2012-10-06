@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<LookupValueCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Collection>
+    <anyType xsi:type="LookupValue">
+      <Description>GETNOW (1)</Description>
+      <IntValue>28679</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>GETNOW (2)</Description>
+      <IntValue>28889</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>WINNER</Description>
+      <IntValue>344824</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>1PLAYER</Description>
+      <IntValue>344846</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>2PLAYER</Description>
+      <IntValue>344846</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>SIDE (1)</Description>
+      <IntValue>344878</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TIME</Description>
+      <IntValue>345212</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>1P</Description>
+      <IntValue>345364</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>SIDE (2)</Description>
+      <IntValue>345374</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>2P</Description>
+      <IntValue>345386</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>SIDE (3)</Description>
+      <IntValue>345396</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>BRAIN (1)</Description>
+      <IntValue>345414</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>USER (1)</Description>
+      <IntValue>345452</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>COM (1)</Description>
+      <IntValue>345475</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>USER (2)</Description>
+      <IntValue>345496</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>COM (2)</Description>
+      <IntValue>345519</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>BASE</Description>
+      <IntValue>345536</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>UNIT</Description>
+      <IntValue>345596</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>BODY</Description>
+      <IntValue>345656</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>PASSWORD (1)</Description>
+      <IntValue>346170</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>CONFIGURATION MODE</Description>
+      <IntValue>346462</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>1 PLAYER SIDE</Description>
+      <IntValue>346557</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>2 PLAYER SIDE</Description>
+      <IntValue>346649</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>GAME WINDOW</Description>
+      <IntValue>346741</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>User Brain (1)</Description>
+      <IntValue>346846</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Computer Brain (1)</Description>
+      <IntValue>346870</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>User Brain (2)</Description>
+      <IntValue>346902</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Computer Brain (2)</Description>
+      <IntValue>346926</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Split Display (1)</Description>
+      <IntValue>346958</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Wide Display (1)</Description>
+      <IntValue>346982</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>START</Description>
+      <IntValue>347098</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>CONT</Description>
+      <IntValue>347134</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>PLAYER</Description>
+      <IntValue>347170</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>MUSIC</Description>
+      <IntValue>347206</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>SOUND (1)</Description>
+      <IntValue>347242</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>1 PLAYER (1)</Description>
+      <IntValue>347608</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>User (1)</Description>
+      <IntValue>347648</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Computer (1)</Description>
+      <IntValue>347688</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>1 PLAYER (2)</Description>
+      <IntValue>347752</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>User (2)</Description>
+      <IntValue>347946</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Computer (2)</Description>
+      <IntValue>347964</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>2 PLAYER (1)</Description>
+      <IntValue>348036</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>User (3)</Description>
+      <IntValue>348076</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Computer (2)</Description>
+      <IntValue>348116</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>User (4)</Description>
+      <IntValue>348370</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Computer (3)</Description>
+      <IntValue>348388</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>WINDOW (1)</Description>
+      <IntValue>348504</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Split (1)</Description>
+      <IntValue>348540</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Wide (1)</Description>
+      <IntValue>348576</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>WINDOW</Description>
+      <IntValue>348634</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Split (2)</Description>
+      <IntValue>348826</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Wide (2)</Description>
+      <IntValue>348842</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>ABCDEFGHIJKLMNOP END (Password Entry)</Description>
+      <IntValue>348990</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>PASSWORD (2)</Description>
+      <IntValue>349064</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>PASSWORD ERROR</Description>
+      <IntValue>349548</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>CORRECT</Description>
+      <IntValue>349886</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>SOUND (2)</Description>
+      <IntValue>351196</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>ABGRUND</Description>
+      <IntValue>352384</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>VULKAN</Description>
+      <IntValue>352406</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>LOCH</Description>
+      <IntValue>352428</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>STRAND</Description>
+      <IntValue>352450</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>STADT</Description>
+      <IntValue>352472</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>EISFREI</Description>
+      <IntValue>352494</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>WALDUNG</Description>
+      <IntValue>352516</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>OASE</Description>
+      <IntValue>352538</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TYPE A (1)</Description>
+      <IntValue>352796</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TYPE B (1)</Description>
+      <IntValue>352832</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TYPE C (1)</Description>
+      <IntValue>352868</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TYPE D (1)</Description>
+      <IntValue>352904</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TYPE A (2)</Description>
+      <IntValue>353238</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TYPE B (2)</Description>
+      <IntValue>353246</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TYPE C (2)</Description>
+      <IntValue>353254</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TYPE D (2)</Description>
+      <IntValue>353262</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TYPE A (3)</Description>
+      <IntValue>353414</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TYPE B (3)</Description>
+      <IntValue>353378</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TYPE C (3)</Description>
+      <IntValue>353342</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>TYPE D (3)</Description>
+      <IntValue>353306</IntValue>
+    </anyType>
+  </Collection>
+</LookupValueCollection>

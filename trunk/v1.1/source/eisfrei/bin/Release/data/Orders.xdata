@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<LookupValueCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Collection>
+    <anyType xsi:type="LookupValue">
+      <Description>BDF-1SD (Stay in place)</Description>
+      <IntValue>384560</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>AF-001A (Patrol)</Description>
+      <IntValue>384576</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>AT-101 (Go to nearest enemy base)</Description>
+      <IntValue>384592</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>DF-F02A (Defend, attack enemies on sight)</Description>
+      <IntValue>384624</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>AT-101H (Invade nearest enemy base)</Description>
+      <IntValue>384688</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>BA-001C (Attack main base)</Description>
+      <IntValue>384704</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>PW-SS10 (Supply)</Description>
+      <IntValue>384784</IntValue>
+    </anyType>
+  </Collection>
+</LookupValueCollection>

@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<DataRangeCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Collection>
+    <anyType xsi:type="DataRange">
+      <Description>Fonts</Description>
+      <StartAddress>131296</StartAddress>
+      <EndAddress>133599</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Icon - BDF-12D</Description>
+      <StartAddress>120960</StartAddress>
+      <EndAddress>121087</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Icon - AF-001A</Description>
+      <StartAddress>121088</StartAddress>
+      <EndAddress>121215</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Icon - AT-101</Description>
+      <StartAddress>121216</StartAddress>
+      <EndAddress>121343</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Icon - DF-F02A</Description>
+      <StartAddress>121472</StartAddress>
+      <EndAddress>121599</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Icon - AT-101H</Description>
+      <StartAddress>121984</StartAddress>
+      <EndAddress>122111</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Icon - BA-001C</Description>
+      <StartAddress>122112</StartAddress>
+      <EndAddress>122239</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Icon - PW-SS10 (1)</Description>
+      <StartAddress>122240</StartAddress>
+      <EndAddress>122367</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Icon - PW-SS10 (2)</Description>
+      <StartAddress>122752</StartAddress>
+      <EndAddress>122879</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Exclaimation</Description>
+      <StartAddress>127488</StartAddress>
+      <EndAddress>127615</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Infantry in base</Description>
+      <StartAddress>127616</StartAddress>
+      <EndAddress>127935</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>SOS</Description>
+      <StartAddress>128096</StartAddress>
+      <EndAddress>128383</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Wrench</Description>
+      <StartAddress>129024</StartAddress>
+      <EndAddress>129311</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>OK</Description>
+      <StartAddress>129312</StartAddress>
+      <EndAddress>129599</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Incoming missile alert</Description>
+      <StartAddress>129600</StartAddress>
+      <EndAddress>129727</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Menu graphics</Description>
+      <StartAddress>129728</StartAddress>
+      <EndAddress>131295</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Thumbnail map - Abgrund</Description>
+      <StartAddress>475136</StartAddress>
+      <EndAddress>477183</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Thumbnail map - Vulkan</Description>
+      <StartAddress>477184</StartAddress>
+      <EndAddress>479231</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Thumbnail map - Loch</Description>
+      <StartAddress>479232</StartAddress>
+      <EndAddress>481279</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Thumbnail map - Strand</Description>
+      <StartAddress>481280</StartAddress>
+      <EndAddress>483327</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Thumbnail map - Stadt</Description>
+      <StartAddress>483328</StartAddress>
+      <EndAddress>485375</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Thumbnail map - Eisfrei</Description>
+      <StartAddress>485376</StartAddress>
+      <EndAddress>487423</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Thumbnail map - Waldung</Description>
+      <StartAddress>487424</StartAddress>
+      <EndAddress>489471</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Thumbnail map - Oase</Description>
+      <StartAddress>489472</StartAddress>
+      <EndAddress>491519</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Buy menu - infantry</Description>
+      <StartAddress>109824</StartAddress>
+      <EndAddress>110111</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Buy menu - motorcycle</Description>
+      <StartAddress>110112</StartAddress>
+      <EndAddress>110399</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Buy menu - tank</Description>
+      <StartAddress>110400</StartAddress>
+      <EndAddress>110687</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Buy menu - boat</Description>
+      <StartAddress>110688</StartAddress>
+      <EndAddress>110975</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Unknown (boxes?)</Description>
+      <StartAddress>127936</StartAddress>
+      <EndAddress>128095</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Unknown (1)</Description>
+      <StartAddress>122880</StartAddress>
+      <EndAddress>123391</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Unknown (2)</Description>
+      <StartAddress>128384</StartAddress>
+      <EndAddress>129023</EndAddress>
+    </anyType>
+  </Collection>
+</DataRangeCollection>

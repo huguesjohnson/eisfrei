@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<DataRangeCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Collection>
+    <anyType xsi:type="DataRange">
+      <Description>Ludwig victory dialog</Description>
+      <StartAddress>342551</StartAddress>
+      <EndAddress>344310</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Wahrsager victory dialog</Description>
+      <StartAddress>343511</StartAddress>
+      <EndAddress>344307</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Ending credits</Description>
+      <StartAddress>344311</StartAddress>
+      <EndAddress>344731</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Song titles</Description>
+      <StartAddress>350411</StartAddress>
+      <EndAddress>351129</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Map names</Description>
+      <StartAddress>351968</StartAddress>
+      <EndAddress>352030</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Menu</Description>
+      <StartAddress>347509</StartAddress>
+      <EndAddress>347545</EndAddress>
+    </anyType>
+  </Collection>
+</DataRangeCollection>

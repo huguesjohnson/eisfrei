@@ -1,0 +1,395 @@
+<?xml version="1.0"?>
+<DataRangeCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Collection>
+    <anyType xsi:type="DataRange">
+      <Description>Shot animations</Description>
+      <StartAddress>125312</StartAddress>
+      <EndAddress>125439</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Shot hit animation</Description>
+      <StartAddress>126976</StartAddress>
+      <EndAddress>127487</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Missile animations</Description>
+      <StartAddress>125440</StartAddress>
+      <EndAddress>126463</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Explosion animation</Description>
+      <StartAddress>123392</StartAddress>
+      <EndAddress>125087</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Armored car</Description>
+      <StartAddress>98304</StartAddress>
+      <EndAddress>99743</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Tank</Description>
+      <StartAddress>99744</StartAddress>
+      <EndAddress>101183</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>SAM</Description>
+      <StartAddress>101184</StartAddress>
+      <EndAddress>102623</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Boat</Description>
+      <StartAddress>102624</StartAddress>
+      <EndAddress>104063</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Supply truck</Description>
+      <StartAddress>104064</StartAddress>
+      <EndAddress>105503</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Cannon</Description>
+      <StartAddress>105504</StartAddress>
+      <EndAddress>106943</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Tank turret</Description>
+      <StartAddress>106944</StartAddress>
+      <EndAddress>108383</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Boat turret</Description>
+      <StartAddress>108384</StartAddress>
+      <EndAddress>109823</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Infantry</Description>
+      <StartAddress>112032</StartAddress>
+      <EndAddress>117119</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Infantry death</Description>
+      <StartAddress>117120</StartAddress>
+      <EndAddress>118655</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 1</Description>
+      <StartAddress>65536</StartAddress>
+      <EndAddress>66047</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 2</Description>
+      <StartAddress>66048</StartAddress>
+      <EndAddress>66559</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 3</Description>
+      <StartAddress>66560</StartAddress>
+      <EndAddress>67071</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 4</Description>
+      <StartAddress>67072</StartAddress>
+      <EndAddress>67583</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 5</Description>
+      <StartAddress>67584</StartAddress>
+      <EndAddress>68095</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 6</Description>
+      <StartAddress>68096</StartAddress>
+      <EndAddress>68607</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 7</Description>
+      <StartAddress>68608</StartAddress>
+      <EndAddress>69119</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 8</Description>
+      <StartAddress>69120</StartAddress>
+      <EndAddress>69631</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 9</Description>
+      <StartAddress>69632</StartAddress>
+      <EndAddress>70143</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 10</Description>
+      <StartAddress>70144</StartAddress>
+      <EndAddress>70655</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 11</Description>
+      <StartAddress>70656</StartAddress>
+      <EndAddress>71167</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 12</Description>
+      <StartAddress>71168</StartAddress>
+      <EndAddress>71679</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 13</Description>
+      <StartAddress>71680</StartAddress>
+      <EndAddress>72191</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 14</Description>
+      <StartAddress>72192</StartAddress>
+      <EndAddress>72703</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 15</Description>
+      <StartAddress>72704</StartAddress>
+      <EndAddress>73215</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 16</Description>
+      <StartAddress>73216</StartAddress>
+      <EndAddress>73727</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 17</Description>
+      <StartAddress>73728</StartAddress>
+      <EndAddress>74239</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 18</Description>
+      <StartAddress>74240</StartAddress>
+      <EndAddress>74751</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 19</Description>
+      <StartAddress>74752</StartAddress>
+      <EndAddress>75263</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 20</Description>
+      <StartAddress>75264</StartAddress>
+      <EndAddress>75775</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 21</Description>
+      <StartAddress>75776</StartAddress>
+      <EndAddress>76287</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 22</Description>
+      <StartAddress>76288</StartAddress>
+      <EndAddress>76799</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 23</Description>
+      <StartAddress>76800</StartAddress>
+      <EndAddress>77311</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 24</Description>
+      <StartAddress>77312</StartAddress>
+      <EndAddress>77823</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 25</Description>
+      <StartAddress>77824</StartAddress>
+      <EndAddress>78335</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 26</Description>
+      <StartAddress>78336</StartAddress>
+      <EndAddress>78847</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 27</Description>
+      <StartAddress>78848</StartAddress>
+      <EndAddress>79359</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 28</Description>
+      <StartAddress>79360</StartAddress>
+      <EndAddress>79871</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 29</Description>
+      <StartAddress>79872</StartAddress>
+      <EndAddress>80383</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 30</Description>
+      <StartAddress>80384</StartAddress>
+      <EndAddress>80895</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 31</Description>
+      <StartAddress>80896</StartAddress>
+      <EndAddress>81407</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 32</Description>
+      <StartAddress>81408</StartAddress>
+      <EndAddress>81919</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 33</Description>
+      <StartAddress>81920</StartAddress>
+      <EndAddress>82431</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 34</Description>
+      <StartAddress>82432</StartAddress>
+      <EndAddress>82943</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 35</Description>
+      <StartAddress>82944</StartAddress>
+      <EndAddress>83455</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 36</Description>
+      <StartAddress>83456</StartAddress>
+      <EndAddress>83967</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 37</Description>
+      <StartAddress>83968</StartAddress>
+      <EndAddress>84479</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 38</Description>
+      <StartAddress>84480</StartAddress>
+      <EndAddress>84991</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 39</Description>
+      <StartAddress>84992</StartAddress>
+      <EndAddress>85503</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 40</Description>
+      <StartAddress>85504</StartAddress>
+      <EndAddress>86015</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 41</Description>
+      <StartAddress>86016</StartAddress>
+      <EndAddress>86527</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 42</Description>
+      <StartAddress>86528</StartAddress>
+      <EndAddress>87039</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 43</Description>
+      <StartAddress>87040</StartAddress>
+      <EndAddress>87551</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 44</Description>
+      <StartAddress>87552</StartAddress>
+      <EndAddress>88063</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 45</Description>
+      <StartAddress>88064</StartAddress>
+      <EndAddress>88575</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 46</Description>
+      <StartAddress>88576</StartAddress>
+      <EndAddress>89087</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 47</Description>
+      <StartAddress>89088</StartAddress>
+      <EndAddress>89599</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 48</Description>
+      <StartAddress>89600</StartAddress>
+      <EndAddress>90111</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 49</Description>
+      <StartAddress>90112</StartAddress>
+      <EndAddress>90623</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 50</Description>
+      <StartAddress>90624</StartAddress>
+      <EndAddress>91135</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 51</Description>
+      <StartAddress>91136</StartAddress>
+      <EndAddress>91647</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 52</Description>
+      <StartAddress>91648</StartAddress>
+      <EndAddress>92159</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 53</Description>
+      <StartAddress>92160</StartAddress>
+      <EndAddress>92671</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 54</Description>
+      <StartAddress>92672</StartAddress>
+      <EndAddress>93183</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 55</Description>
+      <StartAddress>93184</StartAddress>
+      <EndAddress>93695</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 56</Description>
+      <StartAddress>93696</StartAddress>
+      <EndAddress>94207</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 57</Description>
+      <StartAddress>94208</StartAddress>
+      <EndAddress>94719</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 58</Description>
+      <StartAddress>94720</StartAddress>
+      <EndAddress>95231</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 59</Description>
+      <StartAddress>95232</StartAddress>
+      <EndAddress>95743</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 60</Description>
+      <StartAddress>95744</StartAddress>
+      <EndAddress>96255</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 61</Description>
+      <StartAddress>96256</StartAddress>
+      <EndAddress>96767</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 62</Description>
+      <StartAddress>96768</StartAddress>
+      <EndAddress>97279</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 63</Description>
+      <StartAddress>97280</StartAddress>
+      <EndAddress>97791</EndAddress>
+    </anyType>
+    <anyType xsi:type="DataRange">
+      <Description>Robot/Plane - 64</Description>
+      <StartAddress>97792</StartAddress>
+      <EndAddress>98303</EndAddress>
+    </anyType>
+  </Collection>
+</DataRangeCollection>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<LookupValueCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Collection>
+    <anyType xsi:type="LookupValue">
+      <Description>Title screen - background</Description>
+      <IntValue>427008</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Menu - text and border</Description>
+      <IntValue>474624</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Menu - map border</Description>
+      <IntValue>474656</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Map - Abgrund</Description>
+      <IntValue>474880</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Map - Vulkan</Description>
+      <IntValue>474912</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Map - Loch</Description>
+      <IntValue>474944</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Map - Strand</Description>
+      <IntValue>474976</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Map - Stadt</Description>
+      <IntValue>475008</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Map - Eisfrei</Description>
+      <IntValue>475040</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Map - Waldung</Description>
+      <IntValue>475072</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Map - Oase</Description>
+      <IntValue>475104</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Menu - orders and units</Description>
+      <IntValue>133632</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Player 1</Description>
+      <IntValue>133664</IntValue>
+    </anyType>
+    <anyType xsi:type="LookupValue">
+      <Description>Player 2</Description>
+      <IntValue>133696</IntValue>
+    </anyType>
+  </Collection>
+</LookupValueCollection>
